@@ -8,7 +8,7 @@ namespace App_3_2_Module
         {
             string MyName;
             MyName = "Anton";
-            Console.WriteLine(MyName);
+            Console.WriteLine("Привет" + MyName);
         }
     }
 }
