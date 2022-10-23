@@ -6,7 +6,7 @@ namespace App_3_4_3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("\t Привет, \n мир!");
         }
     }
 }
